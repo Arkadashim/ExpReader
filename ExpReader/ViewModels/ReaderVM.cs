@@ -18,7 +18,6 @@ namespace ExpReader.ViewModels
 {
     class ReaderVM : BindableObject
     {
-        readonly int pageChars = 900;
         Book newBook;
         string text;
         string charbook;
